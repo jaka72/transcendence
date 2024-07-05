@@ -101,6 +101,7 @@ After jsx, a .html and a .jsx (or .tsx) can be provided.
     `let var: React.createElemet("p", {}, "Hello");`
   * with .tsx:
         `let var: <p>Hello</p>;`
+-----------------------------
 </details>
 
 ###### *Partially from: https://medium.com/@mohitu531/nestjs-7c0eb5655bde*
