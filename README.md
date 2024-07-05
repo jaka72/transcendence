@@ -1,5 +1,13 @@
 # transcendence_42
 
+<p align="center">
+  <img src="./frontend/public/example_images/img01.png" alt="Example Image 1" style="width: 150px; padding-left: 50px;"/>
+  <img src="./frontend/public/example_images/img02.png" alt="Example Image 2" style="width: 150px; padding-left: 50px;"/>
+  <img src="./frontend/public/example_images/img03.png" alt="Example Image 3" style="width: 150px; padding-left: 50px;"/>
+  <img src="./frontend/public/example_images/img04.png" alt="Example Image 4" style="width: 150px; padding-left: 50px;"/>
+  <img src="./frontend/public/example_images/img04.png" alt="Example Image 4" style="width: 150px; padding-left: 50px;"/>
+</p>
+
 <details>
 <summary>Backend</summary>
 <details>
