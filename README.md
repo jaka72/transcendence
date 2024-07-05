@@ -1,5 +1,5 @@
 # transcendence_42
-
+<!--
 <details>
 <summary>Backend</summary>
 <div>
@@ -13,6 +13,7 @@
     </details>
 </div>
 </details>
+-->
 
 <table>
     <tr>
@@ -30,8 +31,9 @@
 
 <details>
 <summary>Backend</summary>
-<details>
-<summary>NestJS architecture 101</summary>
+<div>
+    <details>
+    <summary> &nbsp;&nbsp;&nbsp;&nbsp; NestJS architecture 101</summary>
 
 ### High level explanation of the Nest setup:
 
@@ -88,6 +90,9 @@ More: https://medium.com/@mohitu531/nestjs-7c0eb5655bde -> Guards
 Is an essential aspect of defining how incoming requests are handled and directed to the appropriate parts of your application.
 It allows you to map specific routes to controller methods that handle the corresponding business logic.
 NestJS provides a built-in module called @nestjs/router to facilitate routing.
+
+    </details>
+</details>
 
 <details>
 <summary>Project file extensions 101</summary>
