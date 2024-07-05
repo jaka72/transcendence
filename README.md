@@ -5,7 +5,10 @@
   <img src="./frontend/public/example_images/img02.png" alt="Example Image 2" style="width: 150px; padding-left: 50px;"/>
   <img src="./frontend/public/example_images/img03.png" alt="Example Image 3" style="width: 150px; padding-left: 50px;"/>
   <img src="./frontend/public/example_images/img04.png" alt="Example Image 4" style="width: 150px; padding-left: 50px;"/>
-  <img src="./frontend/public/example_images/img04.png" alt="Example Image 4" style="width: 150px; padding-left: 50px;"/>
+  <img src="./frontend/public/example_images/img05.png" alt="Example Image 4" style="width: 150px; padding-left: 50px;"/>
+  <img src="./frontend/public/example_images/img06.png" alt="Example Image 4" style="width: 150px; padding-left: 50px;"/>
+  <img src="./frontend/public/example_images/img07.png" alt="Example Image 4" style="width: 150px; padding-left: 50px;"/>
+  <img src="./frontend/public/example_images/img08.png" alt="Example Image 4" style="width: 150px; padding-left: 50px;"/>
 </p>
 
 <details>
