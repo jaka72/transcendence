@@ -2,19 +2,21 @@
 
 <table>
     <tr>
-        <td><img src="./frontend/public/example_images/img02.png" alt="Example Image 2" width="150"/></td>
-        <td><img src="./frontend/public/example_images/img03.png" alt="Example Image 3" width="150"/></td>
-        <td><img src="./frontend/public/example_images/img04.png" alt="Example Image 4" width="150"/></td>
-        <td><img src="./frontend/public/example_images/img05.png" alt="Example Image 5" width="150"/></td>
-        <td><img src="./frontend/public/example_images/img06.png" alt="Example Image 6" width="150"/></td>
-        <td><img src="./frontend/public/example_images/img07.png" alt="Example Image 7" width="150"/></td>
-        <td><img src="./frontend/public/example_images/img08.png" alt="Example Image 8" width="150"/></td>
+        <td><img src="./frontend/public/example_images/img02.png" alt="Example Image 2" width="200"/></td>
+        <td><img src="./frontend/public/example_images/img03.png" alt="Example Image 3" width="200"/></td>
+        <td><img src="./frontend/public/example_images/img04.png" alt="Example Image 4" width="200"/></td>
+        <td><img src="./frontend/public/example_images/img05.png" alt="Example Image 5" width="200"/></td>
+    </tr>
+    <tr>
+        <td><img src="./frontend/public/example_images/img06.png" alt="Example Image 6" width="200"/></td>
+        <td><img src="./frontend/public/example_images/img07.png" alt="Example Image 7" width="200"/></td>
+        <td><img src="./frontend/public/example_images/img08.png" alt="Example Image 8" width="200"/></td>
     </tr>
 </table>
 
-
+<!--
 <p align="center">
-  <img src="./frontend/public/example_images/img01.png" alt="Example Image 1" style="width: 150px; padding-left: 50px; border: 1px solid black;"/>
+  <img src="./frontend/public/example_images/img01.png" alt="Example Image 1" style="width: 150px; padding-left: 50px;"/>
   <img src="./frontend/public/example_images/img02.png" alt="Example Image 2" style="width: 150px; padding-left: 50px;"/>
   <img src="./frontend/public/example_images/img03.png" alt="Example Image 3" style="width: 150px; padding-left: 50px;"/>
   <img src="./frontend/public/example_images/img04.png" alt="Example Image 4" style="width: 150px; padding-left: 50px;"/>
@@ -23,6 +25,7 @@
   <img src="./frontend/public/example_images/img07.png" alt="Example Image 4" style="width: 150px; padding-left: 50px;"/>
   <img src="./frontend/public/example_images/img08.png" alt="Example Image 4" style="width: 150px; padding-left: 50px;"/>
 </p>
+-->
 
 <details>
 <summary>Backend</summary>
