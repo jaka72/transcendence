@@ -1,5 +1,19 @@
 # transcendence_42
 
+<details>
+<summary>Backend</summary>
+<div style="padding-left: 50px;">
+    <details>
+    <summary>NestJS architecture 101</summary>
+
+    ### High level explanation of the Nest setup:
+
+    NestJS is a progressive Node.js framework for building efficient, reliable, and scalable server-side applications. It uses TypeScript and combines elements of OOP (Object Oriented Programming), FP (Functional Programming), and FRP (Functional Reactive Programming).
+
+    </details>
+</div>
+</details>
+
 <table>
     <tr>
         <td><img src="./frontend/public/example_images/img02.png" alt="Example Image 2" width="200"/></td>
@@ -13,19 +27,6 @@
         <td><img src="./frontend/public/example_images/img08.png" alt="Example Image 8" width="200"/></td>
     </tr>
 </table>
-
-<!--
-<p align="center">
-  <img src="./frontend/public/example_images/img01.png" alt="Example Image 1" style="width: 150px; padding-left: 50px;"/>
-  <img src="./frontend/public/example_images/img02.png" alt="Example Image 2" style="width: 150px; padding-left: 50px;"/>
-  <img src="./frontend/public/example_images/img03.png" alt="Example Image 3" style="width: 150px; padding-left: 50px;"/>
-  <img src="./frontend/public/example_images/img04.png" alt="Example Image 4" style="width: 150px; padding-left: 50px;"/>
-  <img src="./frontend/public/example_images/img05.png" alt="Example Image 4" style="width: 150px; padding-left: 50px;"/>
-  <img src="./frontend/public/example_images/img06.png" alt="Example Image 4" style="width: 150px; padding-left: 50px;"/>
-  <img src="./frontend/public/example_images/img07.png" alt="Example Image 4" style="width: 150px; padding-left: 50px;"/>
-  <img src="./frontend/public/example_images/img08.png" alt="Example Image 4" style="width: 150px; padding-left: 50px;"/>
-</p>
--->
 
 <details>
 <summary>Backend</summary>
