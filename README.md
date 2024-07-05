@@ -2,9 +2,9 @@
 
 <details>
 <summary>Backend</summary>
-<div style="padding-left: 50px;">
+<div>
     <details>
-    <summary>NestJS architecture 101</summary>
+    <summary> &nbsp;&nbsp;&nbsp;&nbsp; NestJS architecture 101</summary>
 
     ### High level explanation of the Nest setup:
 
