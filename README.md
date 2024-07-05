@@ -2,9 +2,9 @@
 
 <table>
     <tr>
-        <td style="padding: 20px;"><img src="./frontend/public/example_images/img08.png" alt="Example Image 4" width="150"/></td>
-        <td style="padding: 20px;"><img src="./frontend/public/example_images/img09.png" alt="Example Image 5" width="150"/></td>
-        <td style="padding: 20px;"><img src="./frontend/public/example_images/img10.png" alt="Example Image 6" width="150"/></td>
+        <td style="padding: 50px;"><img src="./frontend/public/example_images/img02.png" alt="Example Image 4" width="150"/></td>
+        <td style="padding: 50px;"><img src="./frontend/public/example_images/img03.png" alt="Example Image 5" width="150"/></td>
+        <td style="padding: 50px;"><img src="./frontend/public/example_images/img04.png" alt="Example Image 6" width="150"/></td>
     </tr>
 </table>
 
