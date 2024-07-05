@@ -1,5 +1,14 @@
 # transcendence_42
 
+<table>
+    <tr>
+        <td style="padding: 20px;"><img src="./frontend/public/example_images/img08.png" alt="Example Image 4" width="150"/></td>
+        <td style="padding: 20px;"><img src="./frontend/public/example_images/img09.png" alt="Example Image 5" width="150"/></td>
+        <td style="padding: 20px;"><img src="./frontend/public/example_images/img10.png" alt="Example Image 6" width="150"/></td>
+    </tr>
+</table>
+
+
 <p align="center">
   <img src="./frontend/public/example_images/img01.png" alt="Example Image 1" style="width: 150px; padding-left: 50px; border: 1px solid black;"/>
   <img src="./frontend/public/example_images/img02.png" alt="Example Image 2" style="width: 150px; padding-left: 50px;"/>
