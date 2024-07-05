@@ -2,9 +2,13 @@
 
 <table>
     <tr>
-        <td><img src="./frontend/public/example_images/img02.png" alt="Example Image 4" width="10"/></td>
-        <td><img src="./frontend/public/example_images/img03.png" alt="Example Image 5" width="10"/></td>
-        <td><img src="./frontend/public/example_images/img04.png" alt="Example Image 6" width="10"/></td>
+        <td><img src="./frontend/public/example_images/img02.png" alt="Example Image 2" width="150"/></td>
+        <td><img src="./frontend/public/example_images/img03.png" alt="Example Image 3" width="150"/></td>
+        <td><img src="./frontend/public/example_images/img04.png" alt="Example Image 4" width="150"/></td>
+        <td><img src="./frontend/public/example_images/img05.png" alt="Example Image 5" width="150"/></td>
+        <td><img src="./frontend/public/example_images/img06.png" alt="Example Image 6" width="150"/></td>
+        <td><img src="./frontend/public/example_images/img07.png" alt="Example Image 7" width="150"/></td>
+        <td><img src="./frontend/public/example_images/img08.png" alt="Example Image 8" width="150"/></td>
     </tr>
 </table>
 
