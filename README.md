@@ -1,17 +1,14 @@
 # transcendence_42
 
-
-{% assign img_path = "{{ img_path }}" %}
-
 <p align="center">
-  <img src="{{ img_path }}img01.png" alt="Example Image 1" style="width: 150px; padding-left: 50px;"/>
-  <img src="{{ img_path }}img02.png" alt="Example Image 2" style="width: 150px; padding-left: 50px;"/>
-  <img src="{{ img_path }}img03.png" alt="Example Image 3" style="width: 150px; padding-left: 50px;"/>
-  <img src="{{ img_path }}img04.png" alt="Example Image 4" style="width: 150px; padding-left: 50px;"/>
-  <img src="{{ img_path }}img05.png" alt="Example Image 4" style="width: 150px; padding-left: 50px;"/>
-  <img src="{{ img_path }}img06.png" alt="Example Image 4" style="width: 150px; padding-left: 50px;"/>
-  <img src="{{ img_path }}img07.png" alt="Example Image 4" style="width: 150px; padding-left: 50px;"/>
-  <img src="{{ img_path }}img08.png" alt="Example Image 4" style="width: 150px; padding-left: 50px;"/>
+  <img src="./frontend/public/example_images/img01.png" alt="Example Image 1" style="width: 150px; padding-left: 50px; border: 1px solid black;"/>
+  <img src="./frontend/public/example_images/img02.png" alt="Example Image 2" style="width: 150px; padding-left: 50px;"/>
+  <img src="./frontend/public/example_images/img03.png" alt="Example Image 3" style="width: 150px; padding-left: 50px;"/>
+  <img src="./frontend/public/example_images/img04.png" alt="Example Image 4" style="width: 150px; padding-left: 50px;"/>
+  <img src="./frontend/public/example_images/img05.png" alt="Example Image 4" style="width: 150px; padding-left: 50px;"/>
+  <img src="./frontend/public/example_images/img06.png" alt="Example Image 4" style="width: 150px; padding-left: 50px;"/>
+  <img src="./frontend/public/example_images/img07.png" alt="Example Image 4" style="width: 150px; padding-left: 50px;"/>
+  <img src="./frontend/public/example_images/img08.png" alt="Example Image 4" style="width: 150px; padding-left: 50px;"/>
 </p>
 
 <details>
